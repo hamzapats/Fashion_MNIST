@@ -4,10 +4,7 @@ The goal is to demonstrate image classification techniques on a simple but popul
 
 Features
 
-Loads and preprocesses the Fashion MNIST dataset
-
-Trains a neural network classifier
-
-Evaluates model accuracy and performance
-
-Visualizes predictions for sample images
+- Loads and preprocesses the Fashion MNIST dataset
+- Trains a neural network classifier
+- Evaluates model accuracy and performance
+- Visualizes predictions for sample images
